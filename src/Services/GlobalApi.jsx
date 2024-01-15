@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const movieBaseUrl = "https://api.themoviedb.org/3";
-const api_key = "917d8050cbf6afe4c71144d7df5c8a88";
+const api_key = ""; // Here Enter your Api Key From TMDP
 
 const movieByGenreBaseURL =
   "https://api.themoviedb.org/3/discover/movie?api_key="+api_key;
